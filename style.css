@@ -1,0 +1,17 @@
+body {
+    background-color:burlywood;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+/*blank size*/
+
+.blank {
+    width: 30%;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.8);
+}
